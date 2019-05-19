@@ -6767,5 +6767,10 @@ button.close {
   padding-right: 2px;
    }
 }
-  
+
+   .center {
+   text-align:center;
+    }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
